@@ -33,7 +33,7 @@ This project taught me how to create portfolio using html.
 ## Screenshot 
 
 
-# [Live Link](https://tranquil-croissant-7d712b.netlify.app/)
+# [Live Link](https://superlative-bublanina-c743a4.netlify.app/)
 ---
 ![What's Trend In](./Capture.PNG)
 ---
